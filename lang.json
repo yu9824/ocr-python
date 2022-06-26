@@ -1,0 +1,12 @@
+{
+    "English": {
+        "name": "English",
+        "code_tesseract": "eng",
+        "code_deepl": "en"
+    },
+    "日本語": {
+        "name": "日本語",
+        "code_tesseract": "jpn",
+        "code_deepl": "ja"
+    }
+}
